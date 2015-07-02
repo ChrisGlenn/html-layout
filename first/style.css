@@ -1,0 +1,25 @@
+#backgroundGray{
+	background-color: lightgray;
+	height: 680px;
+	margin: 0 auto;
+}
+
+#topBar{
+	background-color: black;
+	height: 140px;
+	margin: 0 auto;
+}
+
+#whiteBox{
+	background-color: white;
+	height: 460px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#footerBox{
+	background-color: black;
+	height: 80px;
+	width: 1000px;
+	margin: 0 auto;
+}
