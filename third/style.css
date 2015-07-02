@@ -1,0 +1,44 @@
+#grayLine{
+	background-color: lightgray;
+	height: 140px;
+	width: 1260px;
+	position: relative;
+}
+
+#blueBoxTop{
+	background-color: blue;
+	height: 80%;
+	width: 10%;
+	position:relative;
+	top:10px;
+	left:10px;
+
+}
+
+#blueLine{
+	background-color: blue;
+	height: 140px;
+	width: 1260px;
+	margin: 0 auto;
+}
+
+#cyanLine{
+	background-color: cyan;
+	height: 140px;
+	width: 1260px;
+	margin: 0 auto;
+}
+
+#greenLine{
+	background-color: green;
+	height: 140px;
+	width: 1260px;
+	margin: 0 auto;
+}
+
+#yellowLine{
+	background-color: yellow;
+	height: 140px;
+	width: 1260px;
+	margin: 0 auto;
+}

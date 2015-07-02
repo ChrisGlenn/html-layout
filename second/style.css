@@ -1,0 +1,35 @@
+#blueBarLeft{
+	background-color: blue;
+	height: 680px;
+	width: 1260px;
+	margin: 0 auto;
+}
+
+#centerBarCyan{
+	background-color: cyan;
+	height: 100%;
+	width: 67%;
+	margin-left: 420px;
+}
+
+#leftBarLightGreen{
+	background-color: lightgreen;
+	height: 80%;
+	width: 50%;
+	margin-left: auto;
+}
+
+#bottomRed{
+	background-color: red;
+	height: 20%;
+	width: 50%;
+	margin-left: auto;
+}
+
+#bottomText{
+	color: white;
+	font-family: Arial;
+	font-size: 32px;
+	line-height: 120px;
+	text-align: center;
+}
